@@ -1,0 +1,4 @@
+Line 1
+Line 2
+Now what I a trying to do is write a very long string, I want my string to be over one hundred annd forty characters as I really need to test my Enum filter function
+A Third Line, its not actully the third as the real third line was filtered because its more than 140 characters.
